@@ -3,6 +3,6 @@ logo: /images/me4-c.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
-
+author_profile: true
 
 
