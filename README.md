@@ -2,7 +2,7 @@
 #### Geología e ingeniería geotécnica
 
 ## Educación
-- Doctorado en Ciencias Geológicas, | Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires (*en curso*)								       		
+- Doctorado en Ciencias Geológicas | Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires (*en curso*)								       		
 - Especialización en Ingeniería Geotécnica	| Facultad de Ingeniería - Universidad de Buenos Aires  (*en curso*)			        		
 - Licenciatura en Ciencias Geológicas | Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires (*2021*)
 
