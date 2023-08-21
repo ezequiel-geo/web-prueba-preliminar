@@ -5,7 +5,7 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
   name             : "Ezequiel Martinez"
-  avatar           : "me4-b.jpg"
+  avatar           : "/images/me4-b.jpg"
   bio              : "Geólogo"
   location         : "Argentina"
   employer         :
