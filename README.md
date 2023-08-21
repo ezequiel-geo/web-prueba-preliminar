@@ -1,5 +1,5 @@
-# Geoólogo
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Geólogo
+#### Geología e ingeniería geotécnica
 
 ## Education
 - Doctorado en Ciencias Geológicas, | Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires (*en curso*)								       		
