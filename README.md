@@ -1,13 +1,12 @@
-# Data Scientist
-
+# Geoólogo
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Doctorado en Ciencias Geológicas, | Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires (*en curso*)								       		
+- Especialización en Ingeniería Geotécnica	| Facultad de Ingeniería - Universidad de Buenos Aires  (*en curso*)			        		
+- Licenciatura en Ciencias Geológicas | Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires (*2021*)
 
-## Work Experience
+## Experiencia laboral
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
