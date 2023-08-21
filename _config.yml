@@ -1,11 +1,11 @@
-title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
+title: Ezequiel Martinez
+logo: /images/me4-b.jpg
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
 
   name             : "Ezequiel Martinez"
-  avatar           : "/images/me4-b.jpg"
+  avatar           : 
   bio              : "Geólogo"
   location         : "Argentina"
   employer         :
